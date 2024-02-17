@@ -4,7 +4,7 @@
 
 ![Screenshot_2024_02_17-1](https://github.com/elnaz-eshtiaghi/parallax-web/assets/146030206/244d3b92-e670-4260-bdfa-4100c4a91604)
 
-- [Demo Project]( )
+- [Demo Project](  https://elnaz-eshtiaghi.github.io/parallax-web/)
 
 - Developed by elnaz eshtiaghi
 
