@@ -2,14 +2,15 @@
 
 **If you have a lot of information to display on your site, why don't you use my project**
 
-![Screenshot_2023_11_04-1](https://github.com/elnaz-eshtiaghi/personal-web/assets/146030206/8009e341-b3b4-4f4c-a080-358d6160d603)
+![Screenshot_2024_02_17-1](https://github.com/elnaz-eshtiaghi/parallax-web/assets/146030206/244d3b92-e670-4260-bdfa-4100c4a91604)
+
 - [Demo Project]( https://elnaz-eshtiaghi.github.io/personal-web/)
 
 - Developed by elnaz eshtiaghi
 
 - Created - 2023
 
-- Technologies Used - Html , css , sass
+- Technologies Used - Html , css , sass , boostrap
 
 - Hooks Used : useState 
 
