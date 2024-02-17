@@ -8,9 +8,9 @@
 
 - Developed by elnaz eshtiaghi
 
-- Created - 2023
+- Created - 2024
 
-- Technologies Used - Html , css , sass , boostrap
+- Technologies Used - Html , css , sass , boostrap , javascript
 
 - Hooks Used : useState 
 
